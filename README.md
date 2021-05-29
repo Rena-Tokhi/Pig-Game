@@ -1,2 +1,3 @@
 # Pig-Game
-JavaScript Game
+JavaScript Game code practice for students.
+
